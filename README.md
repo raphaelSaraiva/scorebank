@@ -3,19 +3,19 @@
 As rotas estão utilizando o app do heroku no endereço: 
 https://scorebank.herokuapp.com
 
-## incluir: usada para para adicionar um score para um novo id <p>
+## Incluir: usada para para adicionar um score para um novo id <p>
 https://scorebank.herokuapp.com/incluirScore <p>
 **parâmetros:**<p>
 id: string <p>
 score: int
 
-## alterar: usada para ajustar o score de um id já existente <p>
+## Alterar: usada para ajustar o score de um id já existente <p>
 https://scorebank.herokuapp.com/alterarScore <p>
 **parâmetros:**<p>
 id: string <p>
 score: int
 
-## recuperar: apenas retorna o score de um id cadastrado <p>
+## Recuperar: apenas retorna o score de um id cadastrado <p>
 https://scorebank.herokuapp.com/recuperarScore <p>
 **parâmetros:**<p>
 id: string
