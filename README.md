@@ -21,10 +21,10 @@ https://scorebank.herokuapp.com/recuperarScore <p>
 id: string
 
 ### OBS: <p>
-No post deve ser utilizado x-www.form-urlencoded para que a consulta seja nome/valor 
-separados pelo comercial(&), e os nomes separados dos valores usando o igual (=). 
+No post deve ser utilizado x-www.form-urlencoded para que a consulta tenha os parâmetros 
+separados pelo comercial(&), e os parâmetros separados de seus valores usando o igual (=). 
 Um exemplo disto seria:<p>
-id=1&score=10
+**id=1&score=10**
 
 
 
