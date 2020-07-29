@@ -3,7 +3,7 @@
 As rotas estão utilizando o app do heroku no endereço: 
 https://scorebank.herokuapp.com
 
-## Incluir: usada para para adicionar um score para um novo id <p>
+## Incluir: usada para adicionar um score para um novo id <p>
 https://scorebank.herokuapp.com/incluirScore <p>
 **parâmetros:**<p>
 id: string <p>
